@@ -28,7 +28,7 @@
   "homepage": "https://github.com/ramtinsoltani/mocha-progress-reporter#readme",
   "dependencies": {
     "chalk": "^4.1.0",
-    "mocha": "^8.2.1",
+    "mocha": "^10.2.0",
     "ora": "^5.3.0",
     "strip-ansi": "^6.0.0"
   },
